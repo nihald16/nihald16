@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nihald16
+- 👋 Hi, I’m Nihal Dadore
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on good companies
